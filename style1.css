@@ -1,0 +1,52 @@
+ div{
+                height: 500px;
+                width: 400PX;
+                margin: 33%;
+                margin-top: 0%;
+             
+                         }
+            #Reg{
+                font-size: 30px;
+                margin-left: 125px;
+                font-weight: 700;
+            }
+            p{
+                font-size: 18px;
+                margin-left: 30px;
+            }
+            #login{
+                height: 40px;
+                width: 200px;
+                font-weight: bold;
+                font-size: 25px;
+                margin-left: 90px;
+                border-radius: 200px;
+                color: blue;
+                box-shadow:  10px;
+                border-width: none;
+                cursor: pointer;
+            
+            }
+            #login:hover{
+                background-color: blue;
+                color: azure;
+                box-shadow: 10px;
+            
+            }
+             #login:active{
+                background-color: rgba(0, 255, 68, 0.584);
+                color: rgb(255, 240, 243);
+            
+            }
+            #Im{
+                height: 45px;
+                width: 45px;
+                margin-left: 20px;
+                border-radius: 50%;
+            }
+            div1{
+                margin-left: 50px;
+            }
+            #Reg1{
+                margin-left: 140px;
+            }
